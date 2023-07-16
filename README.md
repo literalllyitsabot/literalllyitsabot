@@ -1,4 +1,5 @@
 <!-- Title -->
+![](https://preview.redd.it/s2c0viilldj41.png?auto=webp&s=c214655e88edf1066accda732e6676089ee45da2)
 # Hello, I'm literally a Bot👋
 
 <!-- Introduction -->
