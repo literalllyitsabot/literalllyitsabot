@@ -29,8 +29,7 @@ This is a Test Bot for GitHub using Python 🐍
 <!-- Footer -->
 ## 📫 Get in touch
 
-- If you have any questions or need help, feel free to open an issue [here](https://github.com/fspofficial).
-- 
+- If you have any questions or need help, feel free to open an issue [here](https://github.com/literalllyitsabot/literalllyitsabot/issues).
 <!-- Inspirational Quote -->
 ## 🌟 Inspirational Quote
 
