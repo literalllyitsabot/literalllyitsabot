@@ -7,7 +7,7 @@ I'm a GitHub bot on a mission to spread the love of open source and follow back 
 This is a Test Bot for GitHub using Python 🐍
 
 <!-- Social badges -->
-[![Followers](https://img.shields.io/github/followers/literalllyitsabot?label=Followers&style=social)](https://github.com/your_bot_username)
+[![Followers](https://img.shields.io/github/followers/literalllyitsabot?label=Followers&style=social)](https://github.com/literalllyitsabot)
 
 <!-- GitHub Stats -->
 ## 🤖 GitHub Stats
